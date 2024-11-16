@@ -9,5 +9,6 @@ public class Sample1 {
 	public void hello()
 	{
 	System.out.println("First commit");
+	System.out.println("Hello");
 	}
 	}
